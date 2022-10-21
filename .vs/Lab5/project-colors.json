@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "093fcaf0-cd24-4301-ade3-9a7eee1178c7": {
+      "ProjectGuid": "093fcaf0-cd24-4301-ade3-9a7eee1178c7",
+      "DisplayName": "Printer",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "7d9be58e-4e1c-4833-b808-442d5e105677": {
+      "ProjectGuid": "7d9be58e-4e1c-4833-b808-442d5e105677",
+      "DisplayName": "ClassRoom",
+      "ColorIndex": 1
+    },
+    "ed257416-1399-43c2-8bf2-b595fc4277e9": {
+      "ProjectGuid": "ed257416-1399-43c2-8bf2-b595fc4277e9",
+      "DisplayName": "DocumentWorker",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

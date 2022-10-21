@@ -1,0 +1,14 @@
+D:\Projects\Lab5\DocumentWorker\bin\Debug\net6.0\DocumentWorker.exe
+D:\Projects\Lab5\DocumentWorker\bin\Debug\net6.0\DocumentWorker.deps.json
+D:\Projects\Lab5\DocumentWorker\bin\Debug\net6.0\DocumentWorker.runtimeconfig.json
+D:\Projects\Lab5\DocumentWorker\bin\Debug\net6.0\DocumentWorker.dll
+D:\Projects\Lab5\DocumentWorker\bin\Debug\net6.0\ref\DocumentWorker.dll
+D:\Projects\Lab5\DocumentWorker\bin\Debug\net6.0\DocumentWorker.pdb
+D:\Projects\Lab5\DocumentWorker\obj\Debug\net6.0\DocumentWorker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Lab5\DocumentWorker\obj\Debug\net6.0\DocumentWorker.AssemblyInfoInputs.cache
+D:\Projects\Lab5\DocumentWorker\obj\Debug\net6.0\DocumentWorker.AssemblyInfo.cs
+D:\Projects\Lab5\DocumentWorker\obj\Debug\net6.0\DocumentWorker.csproj.CoreCompileInputs.cache
+D:\Projects\Lab5\DocumentWorker\obj\Debug\net6.0\DocumentWorker.dll
+D:\Projects\Lab5\DocumentWorker\obj\Debug\net6.0\ref\DocumentWorker.dll
+D:\Projects\Lab5\DocumentWorker\obj\Debug\net6.0\DocumentWorker.pdb
+D:\Projects\Lab5\DocumentWorker\obj\Debug\net6.0\DocumentWorker.genruntimeconfig.cache

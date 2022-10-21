@@ -1,0 +1,15 @@
+D:\Projects\Lab5\ClassRoom\bin\Debug\net6.0\ClassRoom.exe
+D:\Projects\Lab5\ClassRoom\bin\Debug\net6.0\ClassRoom.deps.json
+D:\Projects\Lab5\ClassRoom\bin\Debug\net6.0\ClassRoom.runtimeconfig.json
+D:\Projects\Lab5\ClassRoom\bin\Debug\net6.0\ClassRoom.dll
+D:\Projects\Lab5\ClassRoom\bin\Debug\net6.0\ref\ClassRoom.dll
+D:\Projects\Lab5\ClassRoom\bin\Debug\net6.0\ClassRoom.pdb
+D:\Projects\Lab5\ClassRoom\obj\Debug\net6.0\ClassRoom.csproj.AssemblyReference.cache
+D:\Projects\Lab5\ClassRoom\obj\Debug\net6.0\ClassRoom.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Lab5\ClassRoom\obj\Debug\net6.0\ClassRoom.AssemblyInfoInputs.cache
+D:\Projects\Lab5\ClassRoom\obj\Debug\net6.0\ClassRoom.AssemblyInfo.cs
+D:\Projects\Lab5\ClassRoom\obj\Debug\net6.0\ClassRoom.csproj.CoreCompileInputs.cache
+D:\Projects\Lab5\ClassRoom\obj\Debug\net6.0\ClassRoom.dll
+D:\Projects\Lab5\ClassRoom\obj\Debug\net6.0\ref\ClassRoom.dll
+D:\Projects\Lab5\ClassRoom\obj\Debug\net6.0\ClassRoom.pdb
+D:\Projects\Lab5\ClassRoom\obj\Debug\net6.0\ClassRoom.genruntimeconfig.cache

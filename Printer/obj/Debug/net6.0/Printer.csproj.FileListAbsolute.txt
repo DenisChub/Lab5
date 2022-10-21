@@ -1,0 +1,15 @@
+D:\Projects\Lab5\Printer\obj\Debug\net6.0\Printer.csproj.AssemblyReference.cache
+D:\Projects\Lab5\Printer\obj\Debug\net6.0\Printer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Lab5\Printer\obj\Debug\net6.0\Printer.AssemblyInfoInputs.cache
+D:\Projects\Lab5\Printer\obj\Debug\net6.0\Printer.AssemblyInfo.cs
+D:\Projects\Lab5\Printer\obj\Debug\net6.0\Printer.csproj.CoreCompileInputs.cache
+D:\Projects\Lab5\Printer\bin\Debug\net6.0\Printer.exe
+D:\Projects\Lab5\Printer\bin\Debug\net6.0\Printer.deps.json
+D:\Projects\Lab5\Printer\bin\Debug\net6.0\Printer.runtimeconfig.json
+D:\Projects\Lab5\Printer\bin\Debug\net6.0\Printer.dll
+D:\Projects\Lab5\Printer\bin\Debug\net6.0\ref\Printer.dll
+D:\Projects\Lab5\Printer\bin\Debug\net6.0\Printer.pdb
+D:\Projects\Lab5\Printer\obj\Debug\net6.0\Printer.dll
+D:\Projects\Lab5\Printer\obj\Debug\net6.0\ref\Printer.dll
+D:\Projects\Lab5\Printer\obj\Debug\net6.0\Printer.pdb
+D:\Projects\Lab5\Printer\obj\Debug\net6.0\Printer.genruntimeconfig.cache
